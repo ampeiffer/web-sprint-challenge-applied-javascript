@@ -5,7 +5,7 @@ import axios from 'axios'
 
 globalThis.fetch = fetch
 globalThis.axios = axios
-
+// change
 import { server } from './src/mocks/server'
 import { screen, queries } from '@testing-library/dom'
 import { articles, topics } from './src/mocks/data'
